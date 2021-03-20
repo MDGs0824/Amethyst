@@ -1,0 +1,403 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/unity/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/d/Documents/unity/１ラインアクション1.3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63383
+Successfully changed project path to: /Users/d/Documents/unity/１ラインアクション1.3
+/Users/d/Documents/unity/１ラインアクション1.3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /Applications/unity/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/d/Documents/unity/１ラインアクション1.3/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-18 22:04:50.468 Unity[81009:10157920] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2021-03-18 22:04:50.468 Unity[81009:10157920] Metal devices available: 2
+2021-03-18 22:04:50.468 Unity[81009:10157920] 0: AMD Radeon Pro 5500M (high power)
+2021-03-18 22:04:50.468 Unity[81009:10157920] 1: Intel(R) UHD Graphics 630 (low power)
+2021-03-18 22:04:50.468 Unity[81009:10157920] Forcing user selected device: AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Initialize mono
+Mono path[0] = '/Applications/unity/2020.2.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/unity/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/unity/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56009
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/unity/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/unity/2020.2.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000652 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.810 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 40.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/unity/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1832 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.4 MB.
+System memory in use after: 148.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 1.862293 ms (FindLiveObjects: 0.181988 ms CreateObjectMapping: 0.067197 ms MarkObjects: 1.554566 ms  DeleteObjects: 0.057632 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/スクラップマン.controller
+  artifactKey: Guid(f9930082d02f84425ad98ff72f0b8fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/スクラップマン.controller using Guid(f9930082d02f84425ad98ff72f0b8fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fe2c558892ddb2e8b4a077197f90ec') in 0.834243 seconds
+  Import took 0.837397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.336339 seconds.
+  path: Assets/Scenes/14-2.unity
+  artifactKey: Guid(0779df29d95e64019a456f6f98f07410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/14-2.unity using Guid(0779df29d95e64019a456f6f98f07410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33237d25bec9c6226248daf7c7f02db8') in 0.001308 seconds
+  Import took 0.004254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Scenes/14-2.unity
+  artifactKey: Guid(0779df29d95e64019a456f6f98f07410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/14-2.unity using Guid(0779df29d95e64019a456f6f98f07410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33237d25bec9c6226248daf7c7f02db8') in 0.001062 seconds
+  Import took 0.003422 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.7 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 1.799468 ms (FindLiveObjects: 0.184464 ms CreateObjectMapping: 0.059430 ms MarkObjects: 1.541835 ms  DeleteObjects: 0.012972 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.917 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.2 MB.
+System memory in use after: 153.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 1.755756 ms (FindLiveObjects: 0.173254 ms CreateObjectMapping: 0.048994 ms MarkObjects: 1.520977 ms  DeleteObjects: 0.011813 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.597296 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A1.png
+  artifactKey: Guid(679decc74bf1b423da8b92205cd367a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A1.png using Guid(679decc74bf1b423da8b92205cd367a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f567f5f81d68b1bbad92627b1ac6ec63') in 0.850196 seconds
+  Import took 0.854009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A4.png
+  artifactKey: Guid(60ea89f8e0b264b72acc401a2355133b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A4.png using Guid(60ea89f8e0b264b72acc401a2355133b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e7ae090d2594126f30d7804db1570e') in 0.034616 seconds
+  Import took 0.039654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.342945 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A1.controller
+  artifactKey: Guid(e59a8f084bedf44e2bfb8aaede031f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A1.controller using Guid(e59a8f084bedf44e2bfb8aaede031f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd2a796762660e94f7507d0df566992') in 0.003391 seconds
+  Import took 0.007456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A1.controller
+  artifactKey: Guid(e59a8f084bedf44e2bfb8aaede031f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A1.controller using Guid(e59a8f084bedf44e2bfb8aaede031f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd2a796762660e94f7507d0df566992') in 0.001910 seconds
+  Import took 0.004393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.955848 seconds.
+  path: Assets/Sprites/Maid/敵メイド10.png
+  artifactKey: Guid(2c778d1d9b9304d309ce64897d3128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド10.png using Guid(2c778d1d9b9304d309ce64897d3128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63d1279a901f390ea60e2c38b322d3d') in 0.029993 seconds
+  Import took 0.034012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.442892 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A9.png
+  artifactKey: Guid(2e042fe424bca401abcaa5eca30e66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A9.png using Guid(2e042fe424bca401abcaa5eca30e66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506cb99b64878f7ac6585bde3130b0a9') in 0.028536 seconds
+  Import took 0.033783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.368215 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A6.png
+  artifactKey: Guid(982db444253e14a96b40071107242000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A6.png using Guid(982db444253e14a96b40071107242000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83482c705a142655e6c1148717ec4aaf') in 0.030228 seconds
+  Import took 0.035310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.354474 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A1.png
+  artifactKey: Guid(679decc74bf1b423da8b92205cd367a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A1.png using Guid(679decc74bf1b423da8b92205cd367a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9911ff4fa319a29ba6bd15b5f23208') in 0.032501 seconds
+  Import took 0.038294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.056733 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A2.png
+  artifactKey: Guid(32f2772bde80c40e7931b83c5495030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A2.png using Guid(32f2772bde80c40e7931b83c5495030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea54d6c622f78f8cb3ab49305937496b') in 0.032746 seconds
+  Import took 0.037908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A5.png
+  artifactKey: Guid(ec655e5e4a5514e8789d0a3910b82f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A5.png using Guid(ec655e5e4a5514e8789d0a3910b82f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97f5fc13ef9f5c4388223c116ecddda') in 0.033609 seconds
+  Import took 0.038325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A6.png
+  artifactKey: Guid(982db444253e14a96b40071107242000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A6.png using Guid(982db444253e14a96b40071107242000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f76be00b702c09606bd5466a4b53996') in 0.036047 seconds
+  Import took 0.042026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A4.png
+  artifactKey: Guid(60ea89f8e0b264b72acc401a2355133b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A4.png using Guid(60ea89f8e0b264b72acc401a2355133b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec086ef90051f7148d3aaf3a6b52cf5') in 0.034376 seconds
+  Import took 0.039707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A3.png
+  artifactKey: Guid(22ce7ad7c42ec4b58b2265ae2dd6334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A3.png using Guid(22ce7ad7c42ec4b58b2265ae2dd6334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8cde2a8df2b54306964f5199389dc0') in 0.032831 seconds
+  Import took 0.038047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A7.png
+  artifactKey: Guid(f234a4180ca084e88ad5e1b9604bce8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A7.png using Guid(f234a4180ca084e88ad5e1b9604bce8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a3d1222caa2d3ccf0b5279782da083') in 0.031518 seconds
+  Import took 0.036922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A2.png
+  artifactKey: Guid(32f2772bde80c40e7931b83c5495030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A2.png using Guid(32f2772bde80c40e7931b83c5495030e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea54d6c622f78f8cb3ab49305937496b') in 0.027909 seconds
+  Import took 0.033024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A9.png
+  artifactKey: Guid(2e042fe424bca401abcaa5eca30e66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A9.png using Guid(2e042fe424bca401abcaa5eca30e66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e1719c9506866d0b5ed942a7de8df1') in 0.030604 seconds
+  Import took 0.035752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/Maid/敵メイド攻撃A8.png
+  artifactKey: Guid(3022c58a16c7149d1a9ac2248f38e88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド攻撃A8.png using Guid(3022c58a16c7149d1a9ac2248f38e88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3271e84d97a10105c4056d252ec32e') in 0.031593 seconds
+  Import took 0.036774 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.3 MB.
+System memory in use after: 161.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 1.808908 ms (FindLiveObjects: 0.235404 ms CreateObjectMapping: 0.050000 ms MarkObjects: 1.511275 ms  DeleteObjects: 0.011569 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.674933 seconds.
+  path: Assets/Sprites/Maid/敵メイド2.png
+  artifactKey: Guid(1677c5bb7e0cc4d2483cfbf43bda7176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド2.png using Guid(1677c5bb7e0cc4d2483cfbf43bda7176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445414a344fbd4cd778057b436a7a4e3') in 0.083790 seconds
+  Import took 0.089778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Sprites/Maid/敵メイド7.png
+  artifactKey: Guid(1bf5046c337f346809c9f326939b2682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド7.png using Guid(1bf5046c337f346809c9f326939b2682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76835f31a75a4b277077291080359e00') in 0.029908 seconds
+  Import took 0.035160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/Maid/敵メイド9.png
+  artifactKey: Guid(f3cb88297a66c4c1f96714ed1026b6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド9.png using Guid(f3cb88297a66c4c1f96714ed1026b6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b518d5bcf1c83d40aa190f5b74a9d8f8') in 0.029635 seconds
+  Import took 0.034478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Sprites/Maid/敵メイド8.png
+  artifactKey: Guid(a50700fb49fe245d090d36a1a3dff3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド8.png using Guid(a50700fb49fe245d090d36a1a3dff3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f525eafa48aa4cf59cd82d6ec8a4a47') in 0.031420 seconds
+  Import took 0.036554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/Maid/敵メイド4.png
+  artifactKey: Guid(62740550ebfc6476ab5c10db0a559e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド4.png using Guid(62740550ebfc6476ab5c10db0a559e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4924b4fb4dc1938434db027575c1c1c') in 0.030593 seconds
+  Import took 0.035395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Sprites/Maid/敵メイド2.png
+  artifactKey: Guid(1677c5bb7e0cc4d2483cfbf43bda7176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Maid/敵メイド2.png using Guid(1677c5bb7e0cc4d2483cfbf43bda7176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445414a344fbd4cd778057b436a7a4e3') in 0.032564 seconds
+  Import took 0.037840 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.9 MB.
+System memory in use after: 162.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 1.628054 ms (FindLiveObjects: 0.155536 ms CreateObjectMapping: 0.054139 ms MarkObjects: 1.405315 ms  DeleteObjects: 0.012377 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000854 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.4 MB.
+System memory in use after: 162.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 1.771017 ms (FindLiveObjects: 0.179265 ms CreateObjectMapping: 0.056898 ms MarkObjects: 1.523059 ms  DeleteObjects: 0.011039 ms)
+
